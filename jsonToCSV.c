@@ -17,6 +17,7 @@ int main(){
         printf("%s", str);
     }
 
+    fclose;
 
     return 0;
 
